@@ -1,2 +1,1 @@
-# Python-CW Notes
-College CW nots
+# Python Notes
