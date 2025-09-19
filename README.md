@@ -1,2 +1,2 @@
-# Python-CW
+# Python-CW Notes
 College CW nots
